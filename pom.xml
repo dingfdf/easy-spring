@@ -7,5 +7,21 @@
     <groupId>com.easyspring</groupId>
     <artifactId>easy-spring</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
 
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+
+    <modules>
+        <module>easy-spring-core</module>
+        <module>easy-spring-aop</module>
+        <module>easy-spring-aspects</module>
+        <module>easy-spring-context</module>
+        <module>easy-spring-beans</module>
+        <module>easy-spring-web</module>
+        <module>easy-spring-jdbc</module>
+        <module>easy-spring-webmvc</module>
+    </modules>
 </project>
