@@ -1,4 +1,4 @@
-package com.easyspring.core.factory.annotation;
+package com.easyspring.beans.factory.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

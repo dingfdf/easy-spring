@@ -1,4 +1,4 @@
-package com.easyspring.core.factory.annotation;
+package com.easyspring.beans.factory.annotation;
 
 /**
  * @author Ding Fan
